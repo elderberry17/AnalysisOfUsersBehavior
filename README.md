@@ -1,4 +1,4 @@
-# Analyze-of-users-behavior
+# Analysis-of-users-behavior
 
 Welcome to my firt Data Science project!
 Nowadays everyone hears about a lot of online courses, and people do like it)
