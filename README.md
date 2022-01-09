@@ -1,4 +1,4 @@
-# Analysis-of-users-behavior
+# Analysis of Users on Stepik
 
 Welcome to my firt Data Science project!
 Nowadays everyone hears about a lot of online courses, and people do like it)
